@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'GoyangIlsan L';
+    src: url('GoyangIlsan_L.woff2') format('woff2'),
+        url('GoyangIlsan_L.woff') format('woff'),
+        url('GoyangIlsan_L.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
